@@ -1,0 +1,23 @@
+# --- credentials / secrets: NEVER commit ---
+client_secret.json
+client_secrets.json
+token.json
+ig_config.json
+.env
+*.pem
+*.key
+
+# --- runtime state and data ---
+urls.txt
+done.txt
+ig_posted.txt
+downloads/
+logs/
+*.log
+*.mp4
+
+# --- python ---
+venv/
+.venv/
+__pycache__/
+*.pyc

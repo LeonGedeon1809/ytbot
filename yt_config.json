@@ -1,0 +1,16 @@
+{
+  "source": "trending",
+  "region": "US",
+  "search_keywords": [],
+  "creators": [],
+  "include_words": [],
+  "exclude_words": [],
+  "min_seconds": 5,
+  "max_seconds": 90,
+  "min_likes": 50000,
+  "max_uploads_per_run": 5,
+  "privacy": "public",
+  "category_id": "22",
+  "extra_tags": "#Shorts #fyp",
+  "credit_original": true
+}
